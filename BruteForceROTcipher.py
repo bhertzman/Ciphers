@@ -1,3 +1,5 @@
+# Use caes2() to encrypt as a caesar shift, with the word you want to encrypt as a parameter within quotes. Only lowercase letters are supported
+
 let = input("enter letter ")
 
 def encryption(letter, shift): 
