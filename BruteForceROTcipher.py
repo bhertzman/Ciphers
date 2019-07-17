@@ -1,4 +1,6 @@
-# Use caes2() to encrypt as a caesar shift, with the word you want to encrypt as a parameter within quotes. Only lowercase letters are supported
+# Use caes2() to encrypt as a caesar shift, with the word you want to encrypt as a parameter within quotes. 
+#Only lowercase letters are supported
+#Make sure to run this in the shell, and not python.exe
 
 let = input("enter letter ")
 
